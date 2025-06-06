@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My SWA App</title>
+</head>
+<body>
+  <h1>Hello from Static Web App!</h1>
+  <a href="/api/hello">Call API</a>
+</body>
+</html>
